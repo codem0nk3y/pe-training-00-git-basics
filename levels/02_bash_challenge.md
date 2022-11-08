@@ -2,9 +2,9 @@
 
 Use bash commands to do the following:
 
-1. Navigate to the `Bash-Git` directory.
+1. Navigate to the `pe-training-00-git-basics` directory.
 
-2. Create a folder named `challenge` inside the `Bash-Git` directory.
+2. Create a folder named `challenge` inside the `pe-training-00-git-basics` directory.
 
 3. `cd` into this directory.
 
