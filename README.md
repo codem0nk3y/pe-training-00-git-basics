@@ -54,7 +54,7 @@ doesn't make sense, don't worry - we'll go over it!). Open up a terminal and
 enter the command:
 
 ```
-$ git clone https://github.com/dlab-berkeley/Bash-Git.git
+$ git clone https://github.com/codem0nk3y/pe-training-00-git-basics.git
 Username: your_username
 Password: your_token
 ```
