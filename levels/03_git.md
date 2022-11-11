@@ -145,7 +145,7 @@ incorporating parallel changes into a repository.
 
 Let's give this a shot! You are going to make a change to an existing repository
 and submit a pull request for it. We'll be working in a repository called
-`Git-Playground` which is available on the D-Lab Github at [this
+`Git-Playground` which is available on the p2-labs Github at [this
 link](https://github.com/codem0nk3y/Git-Playground).
 
 1. **Forking the repository.** An extra step you can take when working on a
